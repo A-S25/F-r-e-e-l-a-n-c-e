@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>freelance</title>
+<link rel="stylesheet" href="style.css"
+</head>
+<body>
+<p class="topic">F r e e l a n c e</p>
+
+<img src="work.png" alt="work" align="right" height="550" width="650"/>
+
+
+
+<p class="paragraph">
+«бЏгб «бЌ— Џ»— «б≈д —д  √ж «бЁ—нб«д” еж г’ЎбЌ н‘н— ≈бм жўнЁ… г” ёб… б« б “г »гЏ«нн— Ќ гн… жб«н‘ —Ў «б«— »«Ў »«бЏгб ѕ«∆г« 
+ж≈дг«  яжд жўнЁ… гƒё … б≈ г«г ге«г гЏнд… бгѕ… гд «бжё ° жѕ«∆г« г« яжд  бя «бжўнЁ… г’ѕ— ѕќб ћнѕ »«бд”»… ббяЋн—нд.</p>
+
+<p class="topic2"> √ег «бд’«∆Ќ ж«бќЎж«  бб»ѕЅ »«бЏгб «бЌ—</p>
+
+<img src="skill.png" alt="skill" align="left"  height="700" width="750"/>
+<p class="paragraph2"><br/>
+«ќ — «бге«—… «б н ” —я“ Џбне«<br/>
+
+ Џ »— е–е «бќЎж… ен √жб ж√ег ќЎж… ё»б √д  »ѕ√. 
+гд «бгƒяѕ √дя   г Џ »ге«—… ж«Ќѕ… Џбм «б√ёб √ж Ќ м Џѕѕ гд «бге«—« ° бяд Ён «б»ѕ«н… б«  џ—ё дЁ”я »–бя «бЏѕѕ° «ќ — ге«—… ж«Ќѕ… б —я“ Џбне«.</p>
+
+<img src="media.png" alt="media" align="right" height="700" width="750"/>
+<p class="paragraph3"><br/>ёг »»д«Ѕ ‘»я… гд «бЏб«ё«  <br/>
+
+ёг »»д«Ѕ ‘»я… гд «бЏб«ё«  гЏ «бг” ёбнд «б¬ќ—нд ÷гд гћ«б «ќ ’«’я √ж џн— гћ«бя° 
+Ќ«жб √д  ” Ёнѕ гд ќ»—« ег ж Џбг гдег √”«бн» ж ёдн«  «бЏгб°
+ жЌ«жб √д  ” ‘н—ег ж √ќ– »д’«∆Ќег ≈д б“г «б√г—..</br></p>
+
+
+<img src="pai.png" alt="pai" align="left" height="700" width="750"/>
+<p class="paragraph4"><br/>  г Џ »«б’»—<br/>
+бѕќжб Џ«бг «бЏгб «бЌ— гд «б’Ё— жќ«’…р Ён «б»ѕ«н… »Ќ«ћ… б’»— я»н—° Ёед«я «бяЋн— гд «бгд«Ё”нд ”ж«Ѕ я«дж« «Ќ —«Ённд
+ √г б«° «б√г— «б–н н÷Ў—я б»–б ћеѕ √я»— гЏ «б —ян“ ж«бгЋ«»—…° б ” ЎнЏ г“«Ќг… √жб∆я «бгд«Ё”нд.</p>
+
+
+<img src="best.png" alt="best" align="right" height="700" width="660"/>
+<p class="paragraph5"><br/> «Џгб »ћжѕ… Џ«бн… гд– «б»ѕ«н…<br/>
+Џдѕг«  Ёя— Ён «бЏгб «бЌ— гд «б’Ё—°  –я— √д  ёжг »»д«Ѕ ”гЏ… ћнѕ…° жЏ«гб дЁ”я яЏб«г…  ћ«—н… ггн“…° Ёе–« 
+нЏЎн ббЏгнб «дЎ»«Џр« ћнѕр« Џдя яг” ёб. √д  —я“ Џбм Џгб »ћжѕ… Џ«бн… √Ё÷б гд «бЏгб Џбм Џѕ… √Џг«б жг‘«—нЏ »ћжѕ… √ёб.</p>
+
+<p class="topic3"> гд’«  «бЏгб «бЌ—
+<ul>
+<h1><li><a href="https://jo.mostaql.com">Mostaql</a></li>
+<li><a href="https://khamsat.com">Khamsat </a></li>
+<li><a href="https://www.fiverr.com">Fiverr</a></li>
+<li><a href="https://www.upwork.com">upwork</a></li>
+<li><a href="https://www.freelancer.com">freelancer</a></li>
+</ul><h1></p>
+
+</body>
+</html>
